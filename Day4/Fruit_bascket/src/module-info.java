@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module Fruit_bascket {
-}
